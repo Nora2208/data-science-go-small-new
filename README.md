@@ -1,2 +1,3 @@
-# data-science-go-small-new
-all great things start small 
+# Data Science Go Small
+
+all great things start from small beginngs 
